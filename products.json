@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "641b56d1c4bf00471803d08a"
+  },
+  "reference": "REF-1",
+  "type": "camion",
+  "categorie": "Moteur",
+  "prix": 1200000,
+  "qunatiter": 5,
+  "departement": "Magasin",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679513297135"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679513297135"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641b56ecc4bf00471803d08e"
+  },
+  "reference": "UD-REF",
+  "type": "camion",
+  "categorie": "Moteur",
+  "prix": 1200000,
+  "qunatiter": 5,
+  "departement": "Magasin",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679513324090"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679513373254"
+    }
+  },
+  "__v": 0
+}]

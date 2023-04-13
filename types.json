@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "641b3bf27c60d069fa15d1e2"
+  },
+  "libelle": "camion",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679506418878"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679506418878"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641b3d455c5990b9bd4c2780"
+  },
+  "libelle": "minibus",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679506757113"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679506757113"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "641b5187c54c6ae8399719bc"
+  },
+  "code": "201",
+  "description": "Magasin",
+  "contact": "dg@yopmail.com",
+  "localisation": "Tana",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679511943730"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679511943730"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "641b46c149fd1c6cbb8224f8"
+  },
+  "libelle": "Pneumatique",
+  "type": "641b3d455c5990b9bd4c2780",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679509185661"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679509185661"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641b46cd49fd1c6cbb8224fa"
+  },
+  "libelle": "Moteur",
+  "type": "641b3d455c5990b9bd4c2780",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679509197635"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679509197635"
+    }
+  },
+  "__v": 0
+}]
